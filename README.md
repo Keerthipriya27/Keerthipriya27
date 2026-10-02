@@ -1,46 +1,231 @@
-![logo](https://github.com/Keerthipriya27/Keerthipriya27/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Peddada Keerthipriya</h1>
-<h3 align="center">A passionate AI&ML Engineer from India, Building AI-powered products that solve real-world problems.</h3>
+<!-- 
+===================================================================
+  PEDDADA KEERTHIPRIYA - GITHUB PROFILE README
+  Theme: Neon Cyber-AI / Dark Obsidian
+===================================================================
+-->
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/701bd3a3-e313-48f5-9780-095fce302004" />
+<div align="center">
+  <!-- Banner -->
+  <img src="https://github.com/Keerthipriya27/Keerthipriya27/raw/main/Github%20Banner.png" alt="Keerthipriya Banner" width="100%" style="border-radius: 12px;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthipriya27&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipriya27" /> </p>
+  <br/><br/>
 
-- I’m currently an AI & Automation intern [Credencer Technology](https://credencer.com/)
+  <!-- Profile Header Table with Avatar & Typing SVG -->
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <!-- 
+          IMAGE INSTRUCTION: 
+          To use your own uploaded photo:
+          1. Add your photo into the repository root or assets folder (e.g. `assets/profile.jpg`).
+          2. Update the src below to `assets/profile.jpg` (or your preferred image link)!
+        -->
+        <img src="https://github.com/Keerthipriya27.png" width="170" height="170" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);" alt="Peddada Keerthipriya" />
+        <br/><br/>
+        <b>Peddada Keerthipriya</b><br/>
+        <sub>AI & ML Engineer</sub>
+      </td>
+      <td valign="middle">
+        <h1 align="left">Hi there, I'm Keerthipriya 👋</h1>
+        <h3 align="left">
+          <a href="https://readme-typing-svg.demolab.com">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=false&vCenter=true&width=550&lines=AI+%26+ML+Engineer+%7C+Building+Smart+Products;GenAI+%7C+AI+Agents+%7C+RAG+Architect;Final+Year+CSM+%40+SWEC;AI+%26+Automation+Intern+%40+Credencer;Turning+Ideas+into+Production+Code+%F0%9F%9A%80" alt="Typing SVG" />
+          </a>
+        </h3>
+        <p align="left">
+          <i>Passionate about engineering AI-powered products, intelligent agents, and scalable system design to solve high-impact, real-world problems.</i>
+        </p>
+        <p align="left">
+          <a href="https://drive.google.com/file/d/1MixAJlyEfBMD84Gq4PtKg-gp6zsanCQH/view?usp=sharing" target="_blank">
+            <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-8B5CF6?style=for-the-badge&logoColor=white" alt="Resume" />
+          </a>
+          <a href="mailto:peddadakeerthipriya2710@gmail.com">
+            <img src="https://img.shields.io/badge/✉️%20Get%20In%20Touch-06B6D4?style=for-the-badge&logoColor=white" alt="Email" />
+          </a>
+          <a href="https://www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
-- I’m currently learning **GenAI • AI Agents • RAG • System Design • Cloud**
+  <!-- Profile Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=keerthipriya27&label=👀%20Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
 
-- I’m a final year CSM student [Sridevi women's engineering college](https://swec.ac.in/)
+<hr style="border: 1px solid #30363d;" />
 
-- My updates are available at [www.linkedin.com/in/keerthipriya-peddada-9b9a7034b](www.linkedin.com/in/keerthipriya-peddada-9b9a7034b)
+<!-- ==================== ABOUT ME SECTION ==================== -->
+<h2>🧠 About Me & Current Focus</h2>
 
-- I write articles on [https://medium.com/@peddadaramya468](https://medium.com/@peddadaramya468)
+```python
+class Keerthipriya:
+    def __init__(self):
+        self.name = "Peddada Keerthipriya"
+        self.role = "AI & ML Engineer | GenAI Innovator"
+        self.education = "B.Tech CSM (AI & ML) @ Sridevi Women's Engineering College"
+        self.current_role = "AI & Automation Intern @ Credencer Technology"
+        self.core_stack = ["GenAI", "AI Agents", "RAG Systems", "PyTorch", "Full-Stack Dev"]
+        self.location = "India 🇮🇳"
+        
+    def get_mission(self):
+        return "Transforming complex AI research into intuitive, production-ready applications."
+        
+    def fun_fact(self):
+        return "Give me an idea, a deadline, and a laptop — I’ll turn it into a product. 😄🚀"
 
-- Ask me about **AI projects, full-stack development, GenAI, RAG, hackathons, and turning ideas into real products**
+me = Keerthipriya()
+print(f"Mission: {me.get_mission()}")
+```
 
-- How to reach me **peddadakeerthipriya2710@gmail.com**
+<ul>
+  <li>💼 <b>Current Role:</b> AI & Automation Intern at <a href="https://credencer.com/" target="_blank">Credencer Technology</a></li>
+  <li>🎓 <b>Education:</b> Final Year CSM (Computer Science & Machine Learning) student at <a href="https://swec.ac.in/" target="_blank">Sridevi Women's Engineering College</a></li>
+  <li>🚀 <b>Currently Deep-Diving Into:</b> <code>GenAI</code> • <code>Autonomous AI Agents</code> • <code>RAG Architecture</code> • <code>System Design</code> • <code>Cloud Native AI</code></li>
+  <li>✍️ <b>Writing & Sharing:</b> Technical articles on <a href="https://medium.com/@peddadaramya468" target="_blank">Medium</a></li>
+  <li>💬 <b>Ask me about:</b> AI projects, Full-stack development, LLM fine-tuning, RAG pipelines, Hackathons, and turning ideas into real-world SaaS/AI products</li>
+  <li>📫 <b>Direct Contact:</b> <a href="mailto:peddadakeerthipriya2710@gmail.com">peddadakeerthipriya2710@gmail.com</a></li>
+</ul>
 
-- Know about my experiences [https://drive.google.com/file/d/1MixAJlyEfBMD84Gq4PtKg-gp6zsanCQH/view?usp=sharing](https://drive.google.com/file/d/1MixAJlyEfBMD84Gq4PtKg-gp6zsanCQH/view?usp=sharing)
+<br/>
 
-- Fun fact **Give me an idea, a deadline, and a laptop—I’ll probably turn it into a product.😄**
+<!-- ==================== SPECIALIZATIONS GRID ==================== -->
+<h2>⚡ What I Do</h2>
 
-<h3 align="left">Connect with me:</h3>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 GenAI & AI Agents</h3>
+      <p>Architecting Retrieval-Augmented Generation (RAG) systems, multi-agent frameworks, LLM integrations, and custom prompt engineering workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Machine Learning & Vision</h3>
+      <p>Building predictive models, computer vision pipelines using OpenCV, deep learning algorithms with PyTorch & Scikit-Learn.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Full-Stack Product Engineering</h3>
+      <p>Developing responsive frontends with React & Next.js and high-performance backends with Node.js, Express, Flask & FastAPI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & Automation</h3>
+      <p>Containerizing applications with Docker, utilizing Firebase & SQL/NoSQL databases, and managing automated workflows.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ==================== TECH STACK ==================== -->
+<h2>🛠️ Languages & Technical Arsenal</h2>
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/peddadakeerthipriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/peddadakeerthipriya" height="30" width="40" /></a>
-<a href="https://medium.com/@peddadaramya468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@peddadaramya468" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/keerthipriya_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keerthipriya_27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/peddada_keerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/peddada_keerthi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/peddadakeerthipriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/peddadakeerthipriya/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@peddadaramya468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@peddadaramya468/" height="30" width="40" /></a>
-<a href="https://discord.gg/keerthipriya0927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keerthipriya0927" height="30" width="40" /></a>
+  <b>Artificial Intelligence & Machine Learning</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <b>Web Development & Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthipriya27&show_icons=true&locale=en&layout=compact" alt="keerthipriya27" /></p>
+<p align="left">
+  <b>Mobile & General Programming</b><br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthipriya27&show_icons=true&locale=en" alt="keerthipriya27" /></p>
+<p align="left">
+  <b>Databases, Cloud & Dev Tools</b><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipriya27&" alt="keerthipriya27" /></p>
+<br/>
+
+<!-- ==================== CONNECT WITH ME ==================== -->
+<h2>🌐 Connect & Collaborate</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@peddadaramya468" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.kaggle.com/peddadakeerthipriya" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/peddadakeerthipriya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/peddada_keerthi" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+  <a href="https://www.hackerearth.com/@peddadaramya468/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-3283E6?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>
+  <a href="https://www.youtube.com/c/keerthipriya_27" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/keerthipriya0927" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ==================== GITHUB STATS SECTION ==================== -->
+<h2>📊 GitHub Analytics & Achievements</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=keerthipriya27&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Keerthipriya's GitHub Stats" height="175" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthipriya27&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthipriya27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- ==================== FOOTER / QUOTE ==================== -->
+<hr style="border: 1px solid #30363d;" />
+
+<div align="center">
+  <p><i>"The best way to predict the future is to invent it — with code & intelligence."</i> 💡</p>
+  <p>⭐ Designed with ❤️ by <b>Peddada Keerthipriya</b></p>
+</div>
