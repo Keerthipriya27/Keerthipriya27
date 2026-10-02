@@ -1,7 +1,8 @@
+![logo](https://github.com/Keerthipriya27/Keerthipriya27/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Peddada Keerthipriya</h1>
 <h3 align="center">A passionate AI&ML Engineer from India, Building AI-powered products that solve real-world problems.</h3>
 
-<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/701bd3a3-e313-48f5-9780-095fce302004" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthipriya27&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipriya27" /> </p>
 
