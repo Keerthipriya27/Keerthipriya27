@@ -62,44 +62,44 @@ class Keerthipriya:
         return "Transforming complex AI research into intuitive, production-ready applications."
         
     def fun_fact(self):
-        return "Give me an idea, a deadline, and a laptop — I’ll turn it into a product. 😄🚀"
+        return "Give me an idea, a deadline, and a laptop — I’ll turn it into a product. 😄"
 
 me = Keerthipriya()
 print(f"Mission: {me.get_mission()}")
 ```
 
 <ul>
-  <li>💼 <b>Current Role:</b> AI & Automation Intern at <a href="https://credencer.com/" target="_blank">Credencer Technology</a></li>
-  <li>🎓 <b>Education:</b> Final Year CSM (Computer Science & Machine Learning) student at <a href="https://swec.ac.in/" target="_blank">Sridevi Women's Engineering College</a></li>
-  <li>🚀 <b>Currently Deep-Diving Into:</b> <code>GenAI</code> • <code>Autonomous AI Agents</code> • <code>RAG Architecture</code> • <code>System Design</code> • <code>Cloud Native AI</code></li>
-  <li>✍️ <b>Writing & Sharing:</b> Technical articles on <a href="https://medium.com/@peddadaramya468" target="_blank">Medium</a></li>
-  <li>💬 <b>Ask me about:</b> AI projects, Full-stack development, LLM fine-tuning, RAG pipelines, Hackathons, and turning ideas into real-world SaaS/AI products</li>
-  <li>📫 <b>Direct Contact:</b> <a href="mailto:peddadakeerthipriya2710@gmail.com">peddadakeerthipriya2710@gmail.com</a></li>
+  <li> <b>Current Role:</b> AI & Automation Intern at <a href="https://credencer.com/" target="_blank">Credencer Technology</a></li>
+  <li> <b>Education:</b> Final Year CSM (Computer Science & Machine Learning) student at <a href="https://swec.ac.in/" target="_blank">Sridevi Women's Engineering College</a></li>
+  <li> <b>Currently Deep-Diving Into:</b> <code>GenAI</code> • <code>Autonomous AI Agents</code> • <code>RAG Architecture</code> • <code>System Design</code> • <code>Cloud Native AI</code></li>
+  <li> <b>Writing & Sharing:</b> Technical articles on <a href="https://medium.com/@peddadaramya468" target="_blank">Medium</a></li>
+  <li> <b>Ask me about:</b> AI projects, Full-stack development, LLM fine-tuning, RAG pipelines, Hackathons, and turning ideas into real-world SaaS/AI products</li>
+  <li> <b>Direct Contact:</b> <a href="mailto:peddadakeerthipriya2710@gmail.com">peddadakeerthipriya2710@gmail.com</a></li>
 </ul>
 
 <br/>
 
 <!-- ==================== SPECIALIZATIONS GRID ==================== -->
-<h2>⚡ What I Do</h2>
+<h2> What I Do</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 GenAI & AI Agents</h3>
+      <h3> GenAI & AI Agents</h3>
       <p>Architecting Retrieval-Augmented Generation (RAG) systems, multi-agent frameworks, LLM integrations, and custom prompt engineering workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Machine Learning & Vision</h3>
+      <h3> Machine Learning & Vision</h3>
       <p>Building predictive models, computer vision pipelines using OpenCV, deep learning algorithms with PyTorch & Scikit-Learn.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Full-Stack Product Engineering</h3>
+      <h3> Full-Stack Product Engineering</h3>
       <p>Developing responsive frontends with React & Next.js and high-performance backends with Node.js, Express, Flask & FastAPI.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Cloud & Automation</h3>
+      <h3> Cloud & Automation</h3>
       <p>Containerizing applications with Docker, utilizing Firebase & SQL/NoSQL databases, and managing automated workflows.</p>
     </td>
   </tr>
@@ -108,7 +108,7 @@ print(f"Mission: {me.get_mission()}")
 <br/>
 
 <!-- ==================== TECH STACK ==================== -->
-<h2>🛠️ Languages & Technical Arsenal</h2>
+<h2> Languages & Technical Arsenal</h2>
 
 <p align="left">
   <b>Artificial Intelligence & Machine Learning</b><br/>
@@ -155,7 +155,7 @@ print(f"Mission: {me.get_mission()}")
 <br/>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
-<h2>🌐 Connect & Collaborate</h2>
+<h2> Connect & Collaborate</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" target="_blank">
@@ -187,7 +187,7 @@ print(f"Mission: {me.get_mission()}")
 <br/>
 
 <!-- ==================== GITHUB STATS SECTION ==================== -->
-<h2>📊 GitHub Analytics & Achievements</h2>
+<h2> GitHub Analytics & Achievements</h2>
 
 <div align="center">
   <table border="0">
