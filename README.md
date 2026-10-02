@@ -4,13 +4,11 @@
   Theme: Neon Cyber-AI / Dark Obsidian
 ===================================================================
 -->
-
 <div align="center">
   <!-- Banner -->
   <img src="https://github.com/Keerthipriya27/Keerthipriya27/raw/main/Github%20Banner.png" alt="Keerthipriya Banner" width="100%" style="border-radius: 12px;" />
 
   <br/><br/>
-
   <!-- Main Title & Dynamic Typing SVG Header -->
   <h1 align="center">Hi 👋, I'm Peddada Keerthipriya</h1>
   <h3 align="center">
@@ -18,7 +16,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+Building+Smart+Products;GenAI+%7C+AI+Agents+%7C+RAG+Architect;Final+Year+CSM+%40+SWEC;AI+%26+Automation+Intern+%40+Credencer;Turning+Ideas+into+Production+Code+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
   </h3>
-
   <p align="center">
     <i>A passionate AI & ML Engineer from India building AI-powered products that solve real-world problems.</i>
   </p>
