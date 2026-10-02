@@ -213,5 +213,4 @@ print(f"Mission: {me.get_mission()}")
 
 <div align="center">
   <p><i>"The best way to predict the future is to invent it — with code & intelligence."</i> 💡</p>
-  <p>⭐ Designed with ❤️ by <b>Peddada Keerthipriya</b></p>
 </div>
