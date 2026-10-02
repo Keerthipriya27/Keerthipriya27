@@ -11,45 +11,34 @@
 
   <br/><br/>
 
-  <!-- Profile Header Table with Avatar & Typing SVG -->
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <!-- 
-          IMAGE INSTRUCTION: 
-          To use your own uploaded photo:
-          1. Add your photo into the repository root or assets folder (e.g. `assets/profile.jpg`).
-          2. Update the src below to `assets/profile.jpg` (or your preferred image link)!
-        -->
-        <img src="https://github.com/Keerthipriya27.png" width="170" height="170" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5);" alt="Peddada Keerthipriya" />
-        <br/><br/>
-        <b>Peddada Keerthipriya</b><br/>
-        <sub>AI & ML Engineer</sub>
-      </td>
-      <td valign="middle">
-        <h1 align="left">Hi there, I'm Keerthipriya 👋</h1>
-        <h3 align="left">
-          <a href="https://readme-typing-svg.demolab.com">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=false&vCenter=true&width=550&lines=AI+%26+ML+Engineer+%7C+Building+Smart+Products;GenAI+%7C+AI+Agents+%7C+RAG+Architect;Final+Year+CSM+%40+SWEC;AI+%26+Automation+Intern+%40+Credencer;Turning+Ideas+into+Production+Code+%F0%9F%9A%80" alt="Typing SVG" />
-          </a>
-        </h3>
-        <p align="left">
-          <i>Passionate about engineering AI-powered products, intelligent agents, and scalable system design to solve high-impact, real-world problems.</i>
-        </p>
-        <p align="left">
-          <a href="https://drive.google.com/file/d/1MixAJlyEfBMD84Gq4PtKg-gp6zsanCQH/view?usp=sharing" target="_blank">
-            <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-8B5CF6?style=for-the-badge&logoColor=white" alt="Resume" />
-          </a>
-          <a href="mailto:peddadakeerthipriya2710@gmail.com">
-            <img src="https://img.shields.io/badge/✉️%20Get%20In%20Touch-06B6D4?style=for-the-badge&logoColor=white" alt="Email" />
-          </a>
-          <a href="https://www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <!-- Main Title & Dynamic Typing SVG Header -->
+  <h1 align="center">Hi 👋, I'm Peddada Keerthipriya</h1>
+  <h3 align="center">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+Building+Smart+Products;GenAI+%7C+AI+Agents+%7C+RAG+Architect;Final+Year+CSM+%40+SWEC;AI+%26+Automation+Intern+%40+Credencer;Turning+Ideas+into+Production+Code+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+  </h3>
+
+  <p align="center">
+    <i>A passionate AI & ML Engineer from India building AI-powered products that solve real-world problems.</i>
+  </p>
+
+  <br/>
+
+  <!-- Action Badges -->
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1MixAJlyEfBMD84Gq4PtKg-gp6zsanCQH/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-8B5CF6?style=for-the-badge&logoColor=white" alt="Resume" />
+    </a>
+    &nbsp;
+    <a href="mailto:peddadakeerthipriya2710@gmail.com">
+      <img src="https://img.shields.io/badge/✉️%20Get%20In%20Touch-06B6D4?style=for-the-badge&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/keerthipriya-peddada-9b9a7034b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
   <!-- Profile Visitor Counter -->
   <p align="center">
